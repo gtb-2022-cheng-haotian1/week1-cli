@@ -10,6 +10,6 @@
 
 以上。
 
-<img src="/Users/kkkkouten/Downloads/IMG_9974.jpg" alt="IMG_9974" style="zoom:30%;" />
+<img src="IMG_9851.JPG" alt="IMG_9851" style="zoom:15%;" />
 
-<img src="/Users/kkkkouten/Downloads/IMG_3042.JPG" alt="IMG_3042" style="zoom:18%;" />
+<img src="IMG_3042.JPG" alt="IMG_3042" style="zoom:24%;" />
